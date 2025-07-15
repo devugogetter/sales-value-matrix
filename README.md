@@ -19,12 +19,12 @@ Strategic analysis tool for agency value and engagement visualization.
 !wget -q https://github.com/devugogetter/sales-value-matrix/main/sales_value_matrix.py
 
 # Run the app in background
-`import threading`
-`from sales_value_matrix import app, server`
+`import threading`<br>
+`from sales_value_matrix import app, server`<br>
 
-`def run_app():
-    app.run_server(host='0.0.0.0', port=8050, debug=False)
+`def run_app():`<br>
+    `app.run_server(host='0.0.0.0', port=8050, debug=False)`<br>
 
-thread = threading.Thread(target=run_app)
-thread.daemon = True
-thread.start()`
+`thread = threading.Thread(target=run_app)`<br>
+`thread.daemon = True`<br>
+`thread.start()`<br>
