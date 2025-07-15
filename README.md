@@ -16,7 +16,7 @@ Strategic analysis tool for agency value and engagement visualization.
 !pip install -q dash dash_bootstrap_components pandas numpy plotly chardet pyngrok
 
 # Download the app code
-!wget -q https://raw.githubusercontent.com/your-username/sales-value-matrix/main/sales_value_matrix.py
+!wget -q https://github.com/devugogetter/sales-value-matrix/main/sales_value_matrix.py
 
 # Run the app in background
 import threading
