@@ -8,7 +8,7 @@ Strategic analysis tool for agency value and engagement visualization.
 1. Install Python 3.7+
 2. Clone this repository: `git clone https://github.com/your-username/sales-value-matrix.git`
 3. Install requirements: `pip install -r requirements.txt`
-4. Run the app: `python sales_value_matrix_master_main.py`
+4. Run the app: `python sales_value_matrix.py`
 5. Open http://localhost:8050 in your browser
 
 ### On Google Colab
